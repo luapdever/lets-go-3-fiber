@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lets-go-3-fiber/static/css/main.c7337674.css",
-    "main.js": "/lets-go-3-fiber/static/js/main.f22c6994.js",
+    "main.js": "/lets-go-3-fiber/static/js/main.0d5ab965.js",
     "static/js/787.79ff6f75.chunk.js": "/lets-go-3-fiber/static/js/787.79ff6f75.chunk.js",
     "index.html": "/lets-go-3-fiber/index.html",
     "main.c7337674.css.map": "/lets-go-3-fiber/static/css/main.c7337674.css.map",
-    "main.f22c6994.js.map": "/lets-go-3-fiber/static/js/main.f22c6994.js.map",
+    "main.0d5ab965.js.map": "/lets-go-3-fiber/static/js/main.0d5ab965.js.map",
     "787.79ff6f75.chunk.js.map": "/lets-go-3-fiber/static/js/787.79ff6f75.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c7337674.css",
-    "static/js/main.f22c6994.js"
+    "static/js/main.0d5ab965.js"
   ]
 }
