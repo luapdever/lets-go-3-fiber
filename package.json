@@ -2,6 +2,7 @@
   "name": "lets-go",
   "version": "0.1.0",
   "homepage": "https://luapdever.github.io/lets-go-3-fiber",
+  "proxy": "https://luapdever.github.io",
   "private": true,
   "dependencies": {
     "@react-three/drei": "^9.17.1",

@@ -5,7 +5,7 @@ import React, { useRef, useState } from 'react';
 const Restau = () => {
   const [isRot, setIsRot] = useState(false);
   const mesh = useRef();
-  const restau = useLoader(GLTFLoader, '/hdri/restau.gltf');
+  const restau = useLoader(GLTFLoader, 'hdri/restau.gltf');
 
   return (
     <>

@@ -5,7 +5,7 @@ import React, { useRef, useState } from 'react';
 const Dispositif = () => {
   const [isRot, setIsRot] = useState(false);
   const mesh = useRef();
-  const dispositif = useLoader(GLTFLoader, '/hdri/dispositif.gltf');
+  const dispositif = useLoader(GLTFLoader, 'hdri/dispositif.gltf');
 
   return (
     <>

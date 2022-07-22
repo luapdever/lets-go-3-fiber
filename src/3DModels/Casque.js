@@ -5,7 +5,7 @@ import React, { useRef, useState } from 'react';
 const Casque = () => {
   const [isRot, setIsRot] = useState(false);
   const mesh = useRef();
-  const casque = useLoader(GLTFLoader, '/hdri/casque.gltf');
+  const casque = useLoader(GLTFLoader, 'hdri/casque.gltf');
   useFrame((state, delta) => {
     if (isRot) {
       mesh.current.rotation.y += 0.01;
